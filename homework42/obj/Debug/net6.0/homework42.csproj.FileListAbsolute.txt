@@ -1,0 +1,15 @@
+C:\Users\Natali\Desktop\Examples\homework42\bin\Debug\net6.0\homework42.exe
+C:\Users\Natali\Desktop\Examples\homework42\bin\Debug\net6.0\homework42.deps.json
+C:\Users\Natali\Desktop\Examples\homework42\bin\Debug\net6.0\homework42.runtimeconfig.json
+C:\Users\Natali\Desktop\Examples\homework42\bin\Debug\net6.0\homework42.dll
+C:\Users\Natali\Desktop\Examples\homework42\bin\Debug\net6.0\ref\homework42.dll
+C:\Users\Natali\Desktop\Examples\homework42\bin\Debug\net6.0\homework42.pdb
+C:\Users\Natali\Desktop\Examples\homework42\obj\Debug\net6.0\homework42.csproj.AssemblyReference.cache
+C:\Users\Natali\Desktop\Examples\homework42\obj\Debug\net6.0\homework42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natali\Desktop\Examples\homework42\obj\Debug\net6.0\homework42.AssemblyInfoInputs.cache
+C:\Users\Natali\Desktop\Examples\homework42\obj\Debug\net6.0\homework42.AssemblyInfo.cs
+C:\Users\Natali\Desktop\Examples\homework42\obj\Debug\net6.0\homework42.csproj.CoreCompileInputs.cache
+C:\Users\Natali\Desktop\Examples\homework42\obj\Debug\net6.0\homework42.dll
+C:\Users\Natali\Desktop\Examples\homework42\obj\Debug\net6.0\ref\homework42.dll
+C:\Users\Natali\Desktop\Examples\homework42\obj\Debug\net6.0\homework42.pdb
+C:\Users\Natali\Desktop\Examples\homework42\obj\Debug\net6.0\homework42.genruntimeconfig.cache
