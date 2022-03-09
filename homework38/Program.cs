@@ -23,14 +23,14 @@ void SumOddIn(int[] array)
     int count = array.Length;
     int i = 0 ;
     int sum = 0;
-   for (i = 0 ; i <count; i = i+ 2)
+   for (i=1 ; i <count; i = i+ 2)
 
     {  
-         sum += array[ i + 1 ];     
+         sum += array[ i];     
     }
     Console.WriteLine($"Сумма чисел,стоящих на нечётной позиции в массиве = {sum}");
 }
-int[] newsum  = new int [6];
+int[] newsum  = new int [];
 Console.WriteLine();
 Function( newsum);
 PrintArray( newsum );
