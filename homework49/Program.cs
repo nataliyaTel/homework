@@ -1,8 +1,10 @@
 ﻿// Показать двумерный массив размером m×n, заполненный вещественными числами.
 
-
-
- double [,] matrix = new double [4,3];
+ Console.WriteLine("Введите количество строк - m ");
+ int m =  int.Parse(Console.ReadLine());
+ Console.WriteLine("Введите количество строк - n ");
+ int n = int.Parse( Console.ReadLine());
+ double [,] matrix = new double [m,n];
 
  void PrintArray(double[,]matr)
  {
@@ -30,7 +32,7 @@
     }
 
   }
- PrintArray( matrix);
+ //PrintArray( matrix);
  FillArray( matrix);
  Console.WriteLine();
  PrintArray( matrix);
