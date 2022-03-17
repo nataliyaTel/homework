@@ -1,0 +1,15 @@
+C:\Users\Natali\Desktop\Examples\homework69\bin\Debug\net6.0\homework69.exe
+C:\Users\Natali\Desktop\Examples\homework69\bin\Debug\net6.0\homework69.deps.json
+C:\Users\Natali\Desktop\Examples\homework69\bin\Debug\net6.0\homework69.runtimeconfig.json
+C:\Users\Natali\Desktop\Examples\homework69\bin\Debug\net6.0\homework69.dll
+C:\Users\Natali\Desktop\Examples\homework69\bin\Debug\net6.0\ref\homework69.dll
+C:\Users\Natali\Desktop\Examples\homework69\bin\Debug\net6.0\homework69.pdb
+C:\Users\Natali\Desktop\Examples\homework69\obj\Debug\net6.0\homework69.csproj.AssemblyReference.cache
+C:\Users\Natali\Desktop\Examples\homework69\obj\Debug\net6.0\homework69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natali\Desktop\Examples\homework69\obj\Debug\net6.0\homework69.AssemblyInfoInputs.cache
+C:\Users\Natali\Desktop\Examples\homework69\obj\Debug\net6.0\homework69.AssemblyInfo.cs
+C:\Users\Natali\Desktop\Examples\homework69\obj\Debug\net6.0\homework69.csproj.CoreCompileInputs.cache
+C:\Users\Natali\Desktop\Examples\homework69\obj\Debug\net6.0\homework69.dll
+C:\Users\Natali\Desktop\Examples\homework69\obj\Debug\net6.0\ref\homework69.dll
+C:\Users\Natali\Desktop\Examples\homework69\obj\Debug\net6.0\homework69.pdb
+C:\Users\Natali\Desktop\Examples\homework69\obj\Debug\net6.0\homework69.genruntimeconfig.cache
